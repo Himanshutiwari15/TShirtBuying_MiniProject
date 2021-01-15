@@ -1,4 +1,4 @@
-# t-shirt-buying-mini-project
+# TShirtBuysing MiniProject
 [![Netlify Status](https://api.netlify.com/api/v1/badges/635c056b-db64-4a97-96ba-adc72d9a3477/deploy-status)](https://app.netlify.com/sites/tshirt-buying-landing-page/deploys)
 
 <h3>Resources</h3>
